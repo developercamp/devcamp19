@@ -14,9 +14,12 @@ Btw: Did you know that there's a new event called **[DevCamp.create](https://cre
 	Description (keep it firm)
 	Link
 
+## Twitterlist
+Feel free to add your Twitter handle to our [Twitterlist](https://github.com/developercamp/devcamp19/blob/master/twitterlist.md).
+
 ## Feedback! 
 
-We would like to see your feedback! (There's a link to that place coming soon, here).
+We would like to see your [feedback](https://github.com/developercamp/devcamp18/blob/master/feedback.md)!
 
 # More Information
 
