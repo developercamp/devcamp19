@@ -4,6 +4,7 @@ If you would like to share your notes, repositories, sketches, photos, ... you a
 with other attendees, ... (there's a link to that place coming soon, here).
 
 You would like to learn more? Take a look at what happened
+
 - at **#devcamp18** in the [official 2018 repository](https://github.com/developercamp/devcamp18).
 - at **#devcamp17** in the [official 2017 repository](https://github.com/developercamp/devcamp17).
 
@@ -27,4 +28,6 @@ Thank you very much. For more information please visit [developercamp.io](https:
 
 # Timetable
 
-We are going to provide a timetable. Even for mobile Devices – check out [developercamp.io/timetable](https://developercamp.io/timetable). This one will be updated to the most recent version, soon! Stay tuned!
+We are going to provide a timetable for mobile (and not so mobile) devices. Again. You might remember the [old one](https://developercamp.io/timetable), but [in 2019 everything is going to be more awesome](https://developercamp.io/timetable/devcamp-2019/index.html).
+
+More to come, stay tuned!
