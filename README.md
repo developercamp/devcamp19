@@ -10,6 +10,10 @@ You would like to learn more? Take a look at what happened
 
 Btw: Did you know that there's a new event called **[DevCamp.create](https://create.developercamp.io)**? It's a barcamp covering topics like _User Experience_, _UI Design_, _Design Thinking_ and much more. And the best of all: It's taking place at the same location and at the same time. So if you are taking part at one of the two barcamps you are able to join the sessions from the other Barcamp.
 
+## Sessions
+
+We prepared a [Google Document](https://docs.google.com/document/d/1xO9jL7DpyqyxEAFB4_iEwsiiNI4z4qawnNedcEsOB1k/edit) where you can leave your session proposals and wishes. Feel free to add your ideas!
+
 ## … okay, but: when?
 
 The **Developer Camp 2019** will start on **Friday, April 5th 2019**. The location will be the "**Neue Universität Würzburg**".
