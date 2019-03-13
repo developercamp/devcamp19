@@ -10,3 +10,4 @@ Feel free to add your twitter handle.
 * [Björn Schotte](https://twitter.com/BjoernSchotte) (BjoernSchotte)
 * [Marcel Müller](https://twitter.com/solidevolution) (solidevolution)
 * [Jochen Lillich](https://twitter.com/geewiz) (geewiz)
+* [Markus Roder](https://twitter.com/markus_roder) (markus_roder)
