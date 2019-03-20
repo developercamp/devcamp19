@@ -11,3 +11,4 @@ Feel free to add your twitter handle.
 * [Marcel Müller](https://twitter.com/solidevolution) (solidevolution)
 * [Jochen Lillich](https://twitter.com/geewiz) (geewiz)
 * [Markus Roder](https://twitter.com/markus_roder) (markus_roder)
+* [Michael Ehrlein](https://twitter.com/fragmichdochnet) (fragmichdochnet)
