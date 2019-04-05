@@ -12,3 +12,4 @@ Feel free to add your twitter handle.
 * [Jochen Lillich](https://twitter.com/geewiz) (geewiz)
 * [Markus Roder](https://twitter.com/markus_roder) (markus_roder)
 * [Michael Ehrlein](https://twitter.com/fragmichdochnet) (fragmichdochnet)
+* [Denies Wagner](https://twitter.com/talkaboutdev) (talkaboutdev)
