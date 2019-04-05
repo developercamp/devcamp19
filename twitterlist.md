@@ -13,3 +13,4 @@ Feel free to add your twitter handle.
 * [Markus Roder](https://twitter.com/markus_roder) (markus_roder)
 * [Michael Ehrlein](https://twitter.com/fragmichdochnet) (fragmichdochnet)
 * [Christian Simon](https://twitter.com/metaxmx) (metaxmx)
+* [Denies Wagner](https://twitter.com/talkaboutdev) (talkaboutdev)
