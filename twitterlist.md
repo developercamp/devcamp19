@@ -14,3 +14,5 @@ Feel free to add your twitter handle.
 * [Michael Ehrlein](https://twitter.com/fragmichdochnet) (fragmichdochnet)
 * [Christian Simon](https://twitter.com/metaxmx) (metaxmx)
 * [Denies Wagner](https://twitter.com/talkaboutdev) (talkaboutdev)
+* [Lenz Weber](https://twitter.com/phry) (phry)
+
