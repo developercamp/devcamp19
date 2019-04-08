@@ -15,4 +15,5 @@ Feel free to add your twitter handle.
 * [Christian Simon](https://twitter.com/metaxmx) (metaxmx)
 * [Denies Wagner](https://twitter.com/talkaboutdev) (talkaboutdev)
 * [Lenz Weber](https://twitter.com/phry) (phry)
+* [Tobias Kronthaler](https://twitter.com/kronthto) (kronthto)
 
