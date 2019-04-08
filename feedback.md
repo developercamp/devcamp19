@@ -3,7 +3,7 @@
 Share your thougts, your pictures, notes, and everything related to **#devcamp19**.
 
 ## #devcamp19
-Nothing to see here. Yet …
+* [terminal -kung -foo](Sessions/terminal&#32;-kung&#32;-foo.md) - Eugen Blattner
 
 ## #devcamp18
 
