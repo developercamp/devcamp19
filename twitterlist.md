@@ -16,4 +16,4 @@ Feel free to add your twitter handle.
 * [Denies Wagner](https://twitter.com/talkaboutdev) (talkaboutdev)
 * [Lenz Weber](https://twitter.com/phry) (phry)
 * [Tobias Kronthaler](https://twitter.com/kronthto) (kronthto)
-
+* [Frank Prechtel](https://twitter.com/FrankPrechtel) (FrankPrechtel)
